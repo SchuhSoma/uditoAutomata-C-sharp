@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\bin\Debug\UditoAutomata.exe.config
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\bin\Debug\UditoAutomata.exe
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\bin\Debug\UditoAutomata.pdb
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\obj\Debug\UditoAutomata.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\obj\Debug\UditoAutomata.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\obj\Debug\UditoAutomata.exe
+C:\Users\schuhs\Documents\UditoAutomata\UditoAutomata\obj\Debug\UditoAutomata.pdb
